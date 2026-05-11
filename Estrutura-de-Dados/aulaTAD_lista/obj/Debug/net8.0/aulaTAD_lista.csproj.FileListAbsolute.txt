@@ -1,0 +1,15 @@
+C:\Users\aluno\Desktop\Estrutura-de-Dados\Estrutura-de-Dados\aulaTAD_lista\obj\Debug\net8.0\aulaTAD_lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Desktop\Estrutura-de-Dados\Estrutura-de-Dados\aulaTAD_lista\obj\Debug\net8.0\aulaTAD_lista.AssemblyInfoInputs.cache
+C:\Users\aluno\Desktop\Estrutura-de-Dados\Estrutura-de-Dados\aulaTAD_lista\obj\Debug\net8.0\aulaTAD_lista.AssemblyInfo.cs
+C:\Users\aluno\Desktop\Estrutura-de-Dados\Estrutura-de-Dados\aulaTAD_lista\obj\Debug\net8.0\aulaTAD_lista.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\Estrutura-de-Dados\Estrutura-de-Dados\aulaTAD_lista\obj\Debug\net8.0\aulaTAD_lista.sourcelink.json
+C:\Users\aluno\Desktop\Estrutura-de-Dados\Estrutura-de-Dados\aulaTAD_lista\bin\Debug\net8.0\aulaTAD_lista.exe
+C:\Users\aluno\Desktop\Estrutura-de-Dados\Estrutura-de-Dados\aulaTAD_lista\bin\Debug\net8.0\aulaTAD_lista.deps.json
+C:\Users\aluno\Desktop\Estrutura-de-Dados\Estrutura-de-Dados\aulaTAD_lista\bin\Debug\net8.0\aulaTAD_lista.runtimeconfig.json
+C:\Users\aluno\Desktop\Estrutura-de-Dados\Estrutura-de-Dados\aulaTAD_lista\bin\Debug\net8.0\aulaTAD_lista.dll
+C:\Users\aluno\Desktop\Estrutura-de-Dados\Estrutura-de-Dados\aulaTAD_lista\bin\Debug\net8.0\aulaTAD_lista.pdb
+C:\Users\aluno\Desktop\Estrutura-de-Dados\Estrutura-de-Dados\aulaTAD_lista\obj\Debug\net8.0\aulaTAD_lista.dll
+C:\Users\aluno\Desktop\Estrutura-de-Dados\Estrutura-de-Dados\aulaTAD_lista\obj\Debug\net8.0\refint\aulaTAD_lista.dll
+C:\Users\aluno\Desktop\Estrutura-de-Dados\Estrutura-de-Dados\aulaTAD_lista\obj\Debug\net8.0\aulaTAD_lista.pdb
+C:\Users\aluno\Desktop\Estrutura-de-Dados\Estrutura-de-Dados\aulaTAD_lista\obj\Debug\net8.0\aulaTAD_lista.genruntimeconfig.cache
+C:\Users\aluno\Desktop\Estrutura-de-Dados\Estrutura-de-Dados\aulaTAD_lista\obj\Debug\net8.0\ref\aulaTAD_lista.dll
